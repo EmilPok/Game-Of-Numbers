@@ -36,15 +36,15 @@ Your main goal is to get 100 000 points. It is not easy, though, so you'll need 
 2. Download `main.py`.
 3. Install the libraries:
 
-   ``
+   ```bash
    pip install termcolor
-   ``
+   ```
 
 4. Then you can run this game in terminal by typing:
 
-   ``
+   ```bash
    python main.py
-   ``
+   ```
 
 ## Author
 
